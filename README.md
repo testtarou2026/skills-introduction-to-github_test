@@ -10,7 +10,7 @@ GitHub Skillsの「GitHub入門」演習では、1時間以内でGitHubへの貢
 
 - 対象者：新規開発者、GitHub 初心者、学生
 - 学習内容：リポジトリ、ブランチ、コミット、プルリクエストについて学びます。
-- 構築するもの：[プロフィールのREADME](https://docs.github.com/ja/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) として使用できる短い Markdown ファイルを作成します。
+- 構築するもの：[プロフィールのREADME](https://docs.github.chttps://github.com/testtarou2026/skills-introduction-to-github_test/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) として使用できる短い Markdown ファイルを作成します。
 - 前提条件：なし。この演習は、GitHub を初めて使用する方に最適な入門編です。
 - 所要時間：この演習は 1 時間以内で完了します。
 
@@ -25,13 +25,13 @@ GitHub Skillsの「GitHub入門」演習では、1時間以内でGitHubへの貢
 
 1. **Copy Exercise** を右クリックし、リンクを新しいタブで開きます。
 
-<a id="copy-exercise" href="https://github.com/new?template_owner=kuboctopus&template_name=introduction-to-github&owner=%40me&name=skills-introduction-to-github&description=Exercise:+Introduction+to+GitHub&visibility=public">
-<img src="https://img.shields.io/badge/📠_Copy_Exercise-008000" height="25pt"/>
+<a id="copy-exercise">
+<img src="https://img.shields.io/badge/📠_Copy_Exercise-AAA" height="25pt"/>
 </a>
 
 2. 新しいタブでは、ほとんどのプロンプトが自動的に入力されます。
    - オーナーとして、個人アカウントまたはリポジトリをホストする組織を選択します。
-   - プライベートリポジトリは [Actionsの分単位での課金が発生](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions) するため、パブリックリポジトリを作成することをお勧めします。
+   - プライベートリポジトリは [Actionsの分単位での課金が発生](https://docs.github.chttps://github.com/testtarou2026/skills-introduction-to-github_test/billing/managing-billing-for-github-actions/about-billing-for-github-actions) するため、パブリックリポジトリを作成することをお勧めします。
    - 下にスクロールして、フォームの下部にある [**Create Repository**] ボタンをクリックします。
 3. 新しいリポジトリが作成されたら、演習の準備とボタンの更新が完了するまで約 20 秒お待ちください。演習のコピーを使用して作業を続行します。
    - [**Copy Exercise**] ボタンが無効になり、灰色に変わります。
@@ -39,8 +39,8 @@ GitHub Skillsの「GitHub入門」演習では、1時間以内でGitHubへの貢
    - 場合によっては、ページの更新が必要になることがあります。
 4. [**Start Exercice**] をクリックします。ステップバイステップの指示に従ってください。進捗に応じてフィードバックが提供されます。
 
-<a id="start-exercise">
-<img src="https://img.shields.io/badge/🚀_Start_Exercise-AAA" height="25pt"/>
+<a id="start-exercise" href="https://github.com/testtarou2026/skills-introduction-to-github_test/issues/1">
+<img src="https://img.shields.io/badge/🚀_Start_Exercise-008000" height="25pt"/>
 </a>
 
 > [!重要]
